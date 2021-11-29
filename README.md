@@ -26,3 +26,9 @@ Think of minitask more as a technology experiment. Ruby is not well know for it'
 ## Really?
 
 Yes really.
+
+## Examples
+
+```
+som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum command
+```
