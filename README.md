@@ -29,6 +29,4 @@ Yes really.
 
 ## Examples
 
-```
-som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum som ereally long long Lorem ipsum command
-```
+
